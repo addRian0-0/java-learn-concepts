@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author addrian
+ *
+ */
+module Enum {
+}
